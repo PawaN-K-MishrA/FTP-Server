@@ -12,6 +12,7 @@
 * This provides also has the User Management System which is devloped with the vision to manage profile of users in an organisation.
 
 The 3 pillars of Project
++------------------------+
     * Presentaion Layer: The Presentaion Layer is the top layer, communicates with the Buisness Layer and Data Layer and provides the smooth acess to the clients.
             * The Presentaion Layer has two files:
               1. Login.py : Login code implementaion for the clients.
