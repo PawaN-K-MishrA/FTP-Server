@@ -10,8 +10,8 @@
 * Clinet in the simple words is user who can use the facility of transfering files provided by the server.
 * At a particular instance of time, multiple clients can get connected to server.
 * This provides also has the User Management System which is devloped with the vision to manage profile of users in an organisation.
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-# The 3 pillars of Project
+
+The 3 pillars of Project
     * Presentaion Layer: The Presentaion Layer is the top layer, communicates with the Buisness Layer and Data Layer and provides the smooth acess to the clients.
             * The Presentaion Layer has two files:
               1. Login.py : Login code implementaion for the clients.
@@ -24,6 +24,6 @@
             * The Data Layer has two files:
               1. DBConnection.py   : Establishes connection with database.
               2. User.py           : It fetchs the record for each particular user.
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 
               
